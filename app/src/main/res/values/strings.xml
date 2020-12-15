@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LogIN_Project</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="don_t_have_account_register_here">Don\'t have account? Register here.</string>
+    <string name="todo">TODO</string>
+    <string name="name">name</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="wanderer">Wanderer</string>
+    <string name="expore_your_country" >Expore your country !</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="google_map_key">AIzaSyB1X2rOsOTJ5DZqr08fKAt8G91I_3UFwqc</string>
+    <string name="find">Find</string>
+
+</resources>
